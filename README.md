@@ -2,6 +2,7 @@
 
 - [Python Decorators](#python-decorators)
 - [Magic Methods](#magic-methods)
+- [Python Generators](#python-generators)
 
 ## Tutorials
 
@@ -124,6 +125,8 @@ print("String representation:", obj1)
 31. `__dir__(self)`: Return the list of valid attributes for the object.
 
 - **Source**: https://realpython.com/python-magic-methods/
+
+## Python Generators
 
 ## License
 
