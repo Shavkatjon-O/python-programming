@@ -54,10 +54,13 @@ print(my_function(3, 5))
 
 Source: https://www.geeksforgeeks.org/decorators-in-python/
 
+## Magic Methods
+
 ## Tutorials
 
 ### Youtube
 - https://www.youtube.com/watch?v=KSiRzuSx120&list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc&index=2
+- https://www.youtube.com/watch?v=mclfteWlT2Q&list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP&index=1
 
 ### w3schools
 - https://www.w3schools.com/python/
