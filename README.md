@@ -82,37 +82,37 @@ print("Result of addition:", result)
 print("String representation:", obj1)  
 ```
 
-- `__init__(self, ...)`: Initialize an object.
-- `__repr__(self)`: Compute the "official" string representation of an object. If possible, eval(repr(obj)) should return a new object with the same value.
-- `__str__(self)`: Compute the "informal" or nicely printable string representation of an object. This is called by the `str()` built-in function and by the `print()` function to compute the "informal" string representation of an object.
-- `__add__(self, other)`: Define behavior for the `+` operator.
-- `__sub__(self, other)`: Define behavior for the `-` operator.
-- `__mul__(self, other)`: Define behavior for the `*` operator.
-- `__truediv__(self, other)`: Define behavior for the `/` operator.
-- `__floordiv__(self, other)`: Define behavior for the `//` operator.
-- `__mod__(self, other)`: Define behavior for the `%` operator.
-- `__pow__(self, other[, modulo])`: Define behavior for the `**` operator.
-- `__lt__(self, other)`: Define behavior for the `<` operator.
-- `__le__(self, other)`: Define behavior for the `<=` operator.
-- `__eq__(self, other)`: Define behavior for the `==` operator.
-- `__ne__(self, other)`: Define behavior for the `!=` operator.
-- `__gt__(self, other)`: Define behavior for the `>` operator.
-- `__ge__(self, other)`: Define behavior for the `>=` operator.
-- `__len__(self)`: Return the length of the object.
-- `__getitem__(self, key)`: Define behavior for indexing, like `obj[key]`.
-- `__setitem__(self, key, value)`: Define behavior for assigning to an indexed item, like `obj[key] = value`.
-- `__delitem__(self, key)`: Define behavior for deleting an indexed item, like `del obj[key]`.
-- `__iter__(self)`: Return an iterator object.
-- `__next__(self)`: Return the next item from the iterator.
-- `__contains__(self, item)`: Define behavior for membership tests using `in`.
-- `__call__(self[, args...])`: Allow the instance of the class to be called as a function.
-- `__enter__(self)`: Define behavior when entering a `with` statement.
-- `__exit__(self, exc_type, exc_value, traceback)`: Define behavior when exiting a `with` statement.
-- `__hash__(self)`: Return a unique hash value for the object.
-- `__getattr__(self, name)`: Define behavior for when a non-existent attribute is accessed.
-- `__setattr__(self, name, value)`: Define behavior for when an attribute is set.
-- `__delattr__(self, name)`: Define behavior for when an attribute is deleted.
-- `__dir__(self)`: Return the list of valid attributes for the object.
+1. `__init__(self, ...)`: Initialize an object.
+2. `__repr__(self)`: Compute the "official" string representation of an object. If possible, eval(repr(obj)) should return a new object with the same value.
+3. `__str__(self)`: Compute the "informal" or nicely printable string representation of an object. This is called by the `str()` built-in function and by the `print()` function to compute the "informal" string representation of an object.
+4. `__add__(self, other)`: Define behavior for the `+` operator.
+5. `__sub__(self, other)`: Define behavior for the `-` operator.
+6. `__mul__(self, other)`: Define behavior for the `*` operator.
+7. `__truediv__(self, other)`: Define behavior for the `/` operator.
+8. `__floordiv__(self, other)`: Define behavior for the `//` operator.
+9. `__mod__(self, other)`: Define behavior for the `%` operator.
+10. `__pow__(self, other[, modulo])`: Define behavior for the `**` operator.
+11. `__lt__(self, other)`: Define behavior for the `<` operator.
+12. `__le__(self, other)`: Define behavior for the `<=` operator.
+13. `__eq__(self, other)`: Define behavior for the `==` operator.
+14. `__ne__(self, other)`: Define behavior for the `!=` operator.
+15. `__gt__(self, other)`: Define behavior for the `>` operator.
+16. `__ge__(self, other)`: Define behavior for the `>=` operator.
+17. `__len__(self)`: Return the length of the object.
+18. `__getitem__(self, key)`: Define behavior for indexing, like `obj[key]`.
+19. `__setitem__(self, key, value)`: Define behavior for assigning to an indexed item, like `obj[key] = value`.
+20. `__delitem__(self, key)`: Define behavior for deleting an indexed item, like `del obj[key]`.
+21. `__iter__(self)`: Return an iterator object.
+22. `__next__(self)`: Return the next item from the iterator.
+23. `__contains__(self, item)`: Define behavior for membership tests using `in`.
+24. `__call__(self[, args...])`: Allow the instance of the class to be called as a function.
+25. `__enter__(self)`: Define behavior when entering a `with` statement.
+26. `__exit__(self, exc_type, exc_value, traceback)`: Define behavior when exiting a `with` statement.
+27. `__hash__(self)`: Return a unique hash value for the object.
+28. `__getattr__(self, name)`: Define behavior for when a non-existent attribute is accessed.
+29. `__setattr__(self, name, value)`: Define behavior for when an attribute is set.
+30. `__delattr__(self, name)`: Define behavior for when an attribute is deleted.
+31. `__dir__(self)`: Return the list of valid attributes for the object.
 
 - Source: https://realpython.com/python-magic-methods/
 
