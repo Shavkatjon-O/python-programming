@@ -57,9 +57,11 @@ print(my_function(3, 5))
 
 13. Custom Decorators: You can create your own decorators to encapsulate reusable functionality and apply it across your codebase.
 
-Source: https://www.geeksforgeeks.org/decorators-in-python/
+- Source: https://www.geeksforgeeks.org/decorators-in-python/
 
 ## Magic Methods
+
+- Source: https://realpython.com/python-magic-methods/
 
 ## Tutorials
 
