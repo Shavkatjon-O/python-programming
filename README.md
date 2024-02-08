@@ -19,7 +19,7 @@ def my_function(x, y):
 print(my_function(3, 5))
 ```
 
-Resource: https://www.geeksforgeeks.org/decorators-in-python/
+Source: https://www.geeksforgeeks.org/decorators-in-python/
 
 ## Tutorials
 
