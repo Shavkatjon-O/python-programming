@@ -22,4 +22,9 @@ print(my_function(3, 5))
 Resource: https://www.geeksforgeeks.org/decorators-in-python/
 
 ## Tutorials
+
+### Youtube
 - https://www.youtube.com/watch?v=KSiRzuSx120&list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc&index=2
+
+### w3schools
+- https://www.w3schools.com/python/
