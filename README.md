@@ -84,30 +84,30 @@ print("String representation:", obj1)
 
 - `__init__(self, ...)`: Initialize an object.
 - `__repr__(self)`: Compute the "official" string representation of an object. If possible, eval(repr(obj)) should return a new object with the same value.
-- `__str__(self)`: Compute the "informal" or nicely printable string representation of an object. This is called by the str() built-in function and by the print() function to compute the "informal" string representation of an object.
-- `__add__(self, other)`: Define behavior for the + operator.
-- `__sub__(self, other)`: Define behavior for the - operator.
-- `__mul__(self, other)`: Define behavior for the * operator.
-- `__truediv__(self, other)`: Define behavior for the / operator.
-- `__floordiv__(self, other)`: Define behavior for the // operator.
-- `__mod__(self, other)`: Define behavior for the % operator.
-- `__pow__(self, other[, modulo])`: Define behavior for the ** operator.
-- `__lt__(self, other)`: Define behavior for the < operator.
-- `__le__(self, other)`: Define behavior for the <= operator.
-- `__eq__(self, other)`: Define behavior for the == operator.
-- `__ne__(self, other)`: Define behavior for the != operator.
-- `__gt__(self, other)`: Define behavior for the > operator.
-- `__ge__(self, other)`: Define behavior for the >= operator.
+- `__str__(self)`: Compute the "informal" or nicely printable string representation of an object. This is called by the `str()` built-in function and by the `print()` function to compute the "informal" string representation of an object.
+- `__add__(self, other)`: Define behavior for the `+` operator.
+- `__sub__(self, other)`: Define behavior for the `-` operator.
+- `__mul__(self, other)`: Define behavior for the `*` operator.
+- `__truediv__(self, other)`: Define behavior for the `/` operator.
+- `__floordiv__(self, other)`: Define behavior for the `//` operator.
+- `__mod__(self, other)`: Define behavior for the `%` operator.
+- `__pow__(self, other[, modulo])`: Define behavior for the `**` operator.
+- `__lt__(self, other)`: Define behavior for the `<` operator.
+- `__le__(self, other)`: Define behavior for the `<=` operator.
+- `__eq__(self, other)`: Define behavior for the `==` operator.
+- `__ne__(self, other)`: Define behavior for the `!=` operator.
+- `__gt__(self, other)`: Define behavior for the `>` operator.
+- `__ge__(self, other)`: Define behavior for the `>=` operator.
 - `__len__(self)`: Return the length of the object.
-- `__getitem__(self, key)`: Define behavior for indexing, like obj[key].
-- `__setitem__(self, key, value)`: Define behavior for assigning to an indexed item, like obj[key] = value.
-- `__delitem__(self, key)`: Define behavior for deleting an indexed item, like del obj[key].
+- `__getitem__(self, key)`: Define behavior for indexing, like `obj[key]`.
+- `__setitem__(self, key, value)`: Define behavior for assigning to an indexed item, like `obj[key] = value`.
+- `__delitem__(self, key)`: Define behavior for deleting an indexed item, like `del obj[key]`.
 - `__iter__(self)`: Return an iterator object.
 - `__next__(self)`: Return the next item from the iterator.
-- `__contains__(self, item)`: Define behavior for membership tests using in.
+- `__contains__(self, item)`: Define behavior for membership tests using `in`.
 - `__call__(self[, args...])`: Allow the instance of the class to be called as a function.
-- `__enter__(self)`: Define behavior when entering a with statement.
-- `__exit__(self, exc_type, exc_value, traceback)`: Define behavior when exiting a with statement.
+- `__enter__(self)`: Define behavior when entering a `with` statement.
+- `__exit__(self, exc_type, exc_value, traceback)`: Define behavior when exiting a `with` statement.
 - `__hash__(self)`: Return a unique hash value for the object.
 - `__getattr__(self, name)`: Define behavior for when a non-existent attribute is accessed.
 - `__setattr__(self, name, value)`: Define behavior for when an attribute is set.
