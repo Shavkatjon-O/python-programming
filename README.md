@@ -16,7 +16,8 @@ def my_function(x, y):
     return x + y
 
 # Calling the decorated function
-print(my_function(3, 5))```
+print(my_function(3, 5))
+```
 
 Resource: https://www.geeksforgeeks.org/decorators-in-python/
 
