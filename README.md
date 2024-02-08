@@ -32,25 +32,25 @@ print(my_function(3, 5))
 6. Multiple Decorators: You can apply multiple decorators to a single function or method by stacking them on top of each other using the @ syntax.
 
 7. Common Use Cases: Decorators are commonly used for:
-    - **Logging:** Adding logging statements before and/or after function calls.
-    - **Memoization:** Caching function results for improved performance.
-    - **Authentication and Authorization:** Enforcing access control rules.
-    - **Timing:** Measuring the execution time of functions.
-    - **Validation:** Checking the validity of function arguments.
-    - **Error Handling:** Wrapping functions with try-except blocks for error handling.
-    - **Method Wrapping:** Modifying the behavior of methods in classes.
+- **Logging:** Adding logging statements before and/or after function calls.
+- **Memoization:** Caching function results for improved performance.
+- **Authentication and Authorization:** Enforcing access control rules.
+- **Timing:** Measuring the execution time of functions.
+- **Validation:** Checking the validity of function arguments.
+- **Error Handling:** Wrapping functions with try-except blocks for error handling.
+- **Method Wrapping:** Modifying the behavior of methods in classes.
 
-Preserving Metadata: When using decorators, metadata such as function name, docstring, and signature may be lost. To preserve this metadata, you can use functools.wraps decorator from the functools module.
+8. Preserving Metadata: When using decorators, metadata such as function name, docstring, and signature may be lost. To preserve this metadata, you can use functools.wraps decorator from the functools module.
 
-Decorating Classes: Decorators can also be applied to classes and class methods, although the syntax may vary slightly.
+9. Decorating Classes: Decorators can also be applied to classes and class methods, although the syntax may vary slightly.
 
-Debugging Decorators: Debugging code that uses decorators can sometimes be tricky, especially when multiple decorators are involved. Understanding the order of execution of decorators and how they interact with each other is crucial for effective debugging.
+10. Debugging Decorators: Debugging code that uses decorators can sometimes be tricky, especially when multiple decorators are involved. Understanding the order of execution of decorators and how they interact with each other is crucial for effective debugging.
 
-Decorators and Generators: Decorators can also be applied to generator functions, allowing you to modify the behavior of generators as well.
+11. Decorators and Generators: Decorators can also be applied to generator functions, allowing you to modify the behavior of generators as well.
 
-Decorators in Libraries and Frameworks: Many Python libraries and frameworks extensively use decorators to provide extensibility and customization options. Examples include Flask, Django, and SQLAlchemy.
+12. Decorators in Libraries and Frameworks: Many Python libraries and frameworks extensively use decorators to provide extensibility and customization options. Examples include Flask, Django, and SQLAlchemy.
 
-Custom Decorators: You can create your own decorators to encapsulate reusable functionality and apply it across your codebase.
+13. Custom Decorators: You can create your own decorators to encapsulate reusable functionality and apply it across your codebase.
 
 Source: https://www.geeksforgeeks.org/decorators-in-python/
 
