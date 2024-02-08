@@ -13,6 +13,7 @@ Properties of first class functions:
 - You can return the function from a function.
 - You can store them in data structures such as hash tables, lists,
 
+Resource: https://www.geeksforgeeks.org/decorators-in-python/
 
 ### Tutorials
 - https://www.youtube.com/watch?v=KSiRzuSx120&list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc&index=2
