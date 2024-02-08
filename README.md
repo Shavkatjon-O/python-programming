@@ -3,6 +3,15 @@
 - [Python Decorators](#python-decorators)
 - [Magic Methods](#magic-methods)
 
+## Tutorials
+
+### Youtube
+- https://www.youtube.com/watch?v=KSiRzuSx120&list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc&index=2
+- https://www.youtube.com/watch?v=mclfteWlT2Q&list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP&index=1
+
+### w3schools
+- https://www.w3schools.com/python/
+
 ## Python Decorators
 
 Decorators are a very powerful and useful tool in Python since it allows programmers to modify the behaviour of a function or class. Decorators allow us to wrap another function in order to extend the behaviour of the wrapped function, without permanently modifying it. But before diving deep into decorators let us understand some concepts that will come in handy in learning the decorators.
@@ -116,11 +125,6 @@ print("String representation:", obj1)
 
 - **Source**: https://realpython.com/python-magic-methods/
 
-## Tutorials
+## License
 
-### Youtube
-- https://www.youtube.com/watch?v=KSiRzuSx120&list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc&index=2
-- https://www.youtube.com/watch?v=mclfteWlT2Q&list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP&index=1
-
-### w3schools
-- https://www.w3schools.com/python/
+Check out [license file](LICENSE)
