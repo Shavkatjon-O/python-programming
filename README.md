@@ -57,7 +57,7 @@ print(my_function(3, 5))
 
 13. Custom Decorators: You can create your own decorators to encapsulate reusable functionality and apply it across your codebase.
 
-- Source: https://www.geeksforgeeks.org/decorators-in-python/
+- **Source**: https://www.geeksforgeeks.org/decorators-in-python/
 
 ## Magic Methods
 
@@ -114,7 +114,7 @@ print("String representation:", obj1)
 30. `__delattr__(self, name)`: Define behavior for when an attribute is deleted.
 31. `__dir__(self)`: Return the list of valid attributes for the object.
 
-- Source: https://realpython.com/python-magic-methods/
+- **Source**: https://realpython.com/python-magic-methods/
 
 ## Tutorials
 
