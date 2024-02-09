@@ -7,6 +7,9 @@
 ## Tutorials
 
 ### Youtube
+
+#### NeuralNine
+
 - NeuralNine - [Advanced Python](https://www.youtube.com/watch?v=KSiRzuSx120&list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc&index=2)
 - Tech With Tim - [Advanced Python](https://www.youtube.com/watch?v=mclfteWlT2Q&list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP&index=1)
 - FreeCodeCamp - [Advanced Python](https://www.youtube.com/watch?v=HGOBQPFzWKo&t=3178s)
