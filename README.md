@@ -7,9 +7,11 @@
 ## Tutorials
 
 ### Youtube
-- https://www.youtube.com/watch?v=KSiRzuSx120&list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc&index=2
-- https://www.youtube.com/watch?v=mclfteWlT2Q&list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP&index=1
-
+- NeuralNine - https://www.youtube.com/watch?v=KSiRzuSx120&list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc&index=2
+- Tech With Tim - https://www.youtube.com/watch?v=mclfteWlT2Q&list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP&index=1
+- FreeCodeCamp - https://www.youtube.com/watch?v=HGOBQPFzWKo&t=3178s
+- Patrick Loeber - https://www.youtube.com/watch?v=HGOBQPFzWKo&t=3178s
+- ITVDN - https://www.youtube.com/watch?v=UohnrnZZ0w0&list=PLvItDmb0sZw-j1dHo76Yhhb5aD48DmUZu
 ### w3schools
 - https://www.w3schools.com/python/
 
