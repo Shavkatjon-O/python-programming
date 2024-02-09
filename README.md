@@ -6,13 +6,15 @@
 
 ## Tutorials
 
+### YouTube
+
 - `advanced` - [NeuralNine • Python Advanced Tutorials](https://www.youtube.com/watch?v=KSiRzuSx120&list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc&index=2)
 - `advanced` - [Tech With Time • Expert Python Tutorials](https://www.youtube.com/watch?v=mclfteWlT2Q&list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP&index=1)
 - `advanced` - [FreeCodeCamp • Intermediate Python Programming Course](https://www.youtube.com/watch?v=HGOBQPFzWKo&t=3178s)
 - `advanced` - [Patrick Loeber • Advanced Python - Complete Course](https://www.youtube.com/watch?v=RQ6Ur_T0G3Y&list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2&index=20)
 - `advanced` - [ITDVN • Python Advanced](https://www.youtube.com/watch?v=UohnrnZZ0w0&list=PLvItDmb0sZw-j1dHo76Yhhb5aD48DmUZu)
 
-#### w3schools
+### w3schools
 - https://www.w3schools.com/python/
 
 ## Python Decorators
